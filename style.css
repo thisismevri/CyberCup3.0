@@ -1,23 +1,23 @@
 @font-face{
   font-family: chopsic;
-  src: url(./images/chopsic-font/Chopsic-K6Dp.ttf);
+  src: url(./CyberCup3.0/chopsic-font/Chopsic-K6Dp.ttf);
 
   
 }
 
 @font-face{
   font-family: newton;
-  src: url(./images/newtown-font/NewtownBold-MpGp.ttf);
+  src: url(./CyberCup3.0/newtown-font/NewtownBold-MpGp.ttf);
 }
 
 @font-face{
   font-family: spacemission;
-  src: url(./images/space-mission-font/SpaceMission-rgyw9.otf);
+  src: url(./CyberCup3.0/space-mission-font/SpaceMission-rgyw9.otf);
 }
 
 @font-face{
   font-family: technorace;
-  src: url(./images/techno-race-italic-font/TechnoRaceItalic-eZRWe.otf);
+  src: url(./CyberCup3.0/techno-race-italic-font/TechnoRaceItalic-eZRWe.otf);
 }
 
 
@@ -63,7 +63,7 @@ a.no-hover:hover {
   
 
   #Home{
-    background-image: url("./images/30545788_sound_motion_wave_12.jpg");
+    background-image: url("./CyberCup3.0/30545788_sound_motion_wave_12.jpg");
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -180,62 +180,62 @@ max-height: 120px;
 }
 
 .card-1{
-background-image: url(./images/united_1534938.png);
+background-image: url(./CyberCup3.0/united_1534938.png);
     background-repeat: no-repeat;
   background-position: right;
   background-size: 80px;
 }
 
 .card-2{
- background-image: url(./images/document_10567039.png);
+ background-image: url(./CyberCup3.0/document_10567039.png);
     background-repeat: no-repeat;
   background-position: right;
   background-size: 80px;
 }
 
 .card-3{
- background-image: url(./images/skills_10231540.png);
+ background-image: url(./CyberCup3.0/skills_10231540.png);
     background-repeat: no-repeat;
   background-position: right;
   background-size: 80px;
 }
 
 .card-4{
-  background-image: url(./images/trophy_1344748.png);
+  background-image: url(./CyberCup3.0/trophy_1344748.png);
      background-repeat: no-repeat;
    background-position: right;
    background-size: 80px;
  }
 
  .card-5{
-  background-image: url(./images/trophy_1344748.png);
+  background-image: url(./CyberCup3.0/trophy_1344748.png);
      background-repeat: no-repeat;
    background-position: right;
    background-size: 80px;
  }
  .card-6{
-  background-image: url(./images/trophy_1344748.png);
+  background-image: url(./CyberCup3.0/trophy_1344748.png);
      background-repeat: no-repeat;
    background-position: right;
    background-size: 80px;
  }
 
  .card-7{
-  background-image: url(./images/certificate_2490354.png);
+  background-image: url(./CyberCup3.0/certificate_2490354.png);
      background-repeat: no-repeat;
    background-position: right;
    background-size: 80px;
  }
 
  .card-8{
-  background-image: url(./images/map_1865269.png);
+  background-image: url(./CyberCup3.0/map_1865269.png);
      background-repeat: no-repeat;
    background-position: right;
    background-size: 80px;
  }
 
  .card-9{
-  background-image: url(./images/time_3395472.png);
+  background-image: url(./CyberCup3.0/time_3395472.png);
      background-repeat: no-repeat;
    background-position: right;
    background-size: 80px;
@@ -539,7 +539,7 @@ background-image: url(./images/united_1534938.png);
 #Registration{
   height: 100vh;
   text-align: center;
-  background-image: url("./images/34830379_elegant_luxury_background_modern_purple_color.jpg");
+  background-image: url("./CyberCup3.0/34830379_elegant_luxury_background_modern_purple_color.jpg");
   
 }
 
@@ -693,7 +693,7 @@ h1 {
       text-align: center;
     }
     #Home{
-      background-image: url("./images/30545788_sound_motion_wave_12.jpg");
+      background-image: url("./CyberCup3.0/30545788_sound_motion_wave_12.jpg");
       background-size: cover;
       -webkit-background-size: cover;
       -o-background-size: cover;
@@ -705,7 +705,7 @@ h1 {
 
   @media (min-width: 700px) and ( max-width: 990px){
     #Home{
-      background-image: url("./images/30545788_sound_motion_wave_12.jpg");
+      background-image: url("./CyberCup3.0/30545788_sound_motion_wave_12.jpg");
       background-size: cover;
       -webkit-background-size: cover;
       -o-background-size: cover;
@@ -771,7 +771,7 @@ h1 {
 
   @media (max-width: 700px){
     #Home{
-      background-image: url("./images/30545788_sound_motion_wave_12.jpg");
+      background-image: url("./CyberCup3.0/30545788_sound_motion_wave_12.jpg");
       background-size: cover;
       -webkit-background-size: cover;
       -o-background-size: cover;
